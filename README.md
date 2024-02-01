@@ -9,7 +9,8 @@ Always keep a positive attitude even when faced a new obstract challenege or a e
 ## **Inspiration and daily reminder**
 My inspiration and whats really going to keep me motivated is a very personal reason but one the best. When I seperated from the military, I had a hard time converting 
 back into the civilian world. Whether it was making new friends, finding a fullfilling job, finding motivation. I heavily relied on video games to get me through some hard times.
-My dream is to become a Game developer, and the thought of a game I help create could help a veteran or anyone find an escape and have something happy in their lives.
+My dream is to become a game developer, and the thought of a game I help create that could help a veteran or anyone find an escape and have something happy in their lives has been
+the driving force to get into this field and make an impact.
 
 |  Mirror Talk Topics  |
 |----------------------|
