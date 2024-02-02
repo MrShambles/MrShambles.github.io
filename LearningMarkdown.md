@@ -81,7 +81,7 @@ Remember! 1 # for largest heading, 6 # for smallest heading.
 
 <details>
 
-<summary>When making text bold or italicized for emphasis, it is best practice to use which symbol?</details>
+<summary>When making text bold or italicized for emphasis, it is best practice to use which symbol?</summary>
 
 Bold formatting is ** at the beginning and end of the words with no spaces.
 Italic formatting is * at the beginning and end of the words with no spaces.
