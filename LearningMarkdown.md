@@ -1,7 +1,3 @@
-layout: page
-title: "Learning Markdown"
-permalink: -reading-notes-/
-
 # ***Learning Markdown***
 
 In this article, you will learn the basics of markdown from different symbols you can use to change style of text, how to make
