@@ -1,6 +1,6 @@
 layout: page
 title: "Learning Markdown"
-permalink: /reading/notes
+permalink: -reading-notes-/
 
 # ***Learning Markdown***
 
