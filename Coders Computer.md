@@ -1,6 +1,6 @@
 1. What are four important features to look for in a text editor?
 
-- Code Completetion.
+- Code Completion.
 - Syntax highlighting.
 - Variety of themes.
 - Ability to choose from multiple types of extensions when needed.
@@ -18,5 +18,5 @@
 - **cd project** this command will change our directory from which ever current one we are in and move us to *project*.
 - **mkdir new-project** This command will create an entire new directory named new-projects.
 - **touch new-project/newfile.md** this command will create a new empty file named new-project and change the time stamps of the previous file.
-- **cd ..** this command will change your directory to the Home directory due to not putting the arguement for another directory.
+- **cd ..** this command will change your directory to the Home directory due to not putting the argument for another directory.
 - **ls projects/new-project** This command will list the contents of the new-project file.
