@@ -40,7 +40,7 @@ You can create a link by first putting link description text in Brackets [ ]. Th
 
 ### *What are the three symbols you can use to create an unordered (bulleted) list with Markdown?*
 
-You can make a an unordered list very easily! This will help to clean up your text and page! To start the list, the line must be preceding by -,* or +. Ex.
+You can make a an unordered list very easily! This will help to clean up your text and page! To start the list, the line must be preceding by - * or +. Ex.
 - List option 1
 * List option 2
 + List option 3
