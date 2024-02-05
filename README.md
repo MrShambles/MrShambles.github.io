@@ -23,4 +23,4 @@ These are more then just reminders, these are conversations I _will_ have with m
 My name is Michael Roark, I am a 29 year old veteran, and this is where the story begins. Thank you for reading.
 
 > Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.
-—Dale Carnegie
+> Dale Carnegie
