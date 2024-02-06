@@ -25,9 +25,9 @@
 <details>
   <summary> What is the command to take a snapshot of your changed files?</summary>
 
-Git creates a snapshot each time you save a changed verison of a project. 
+Git creates a snapshot each time you save a changed version of a project. 
 
-Use command *git log* to view commited snapshots.
+Use command *git log* to view committed snapshots.
   
 </details>
 
