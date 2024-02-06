@@ -4,7 +4,7 @@
 
 <summary> What is HTML and why do we use it?</summary>
 
-HTML (HyperText Markup Lanuage) is a Markup Language that dines the structure of web page and its content.
+HTML (HyperText Markup Language) is a Markup Language that dines the structure of web page and its content.
 We use it because you can define headers, paragraphs, links and many more so that your browser knows how to structure 
 that web page you are looking at.
 
@@ -24,7 +24,7 @@ that web page you are looking at.
 
 <summary>What is it called when you give an element extra information? </summary>
 
-- Attirbute. Attributes are always in the start tag.
+- Attribute. Attributes are always in the start tag.
 
 </details>
 
