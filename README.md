@@ -10,7 +10,7 @@
 - Class One [Learning Markdown](./learning-markdown.md)
 - Class Two [Coders Computer](./coders-computer.md)
 - Class Three [Git and GitHub](./gitandgithub.md)
-- Class Four
+- Class Four [Structure web pages with HTML](./Code%20102/class-4-structure-%20web-page-html.md)
 - Class Five
 - Class Six
 - Class Seven
