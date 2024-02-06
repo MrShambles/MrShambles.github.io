@@ -16,8 +16,8 @@
 <details>
   <summary> What is the command to track and stage files?</summary>
 
-  Single file track: git add *filename*
-  All Files: $ git add *
+ - Single file track: git add *filename*
+ - All Files: $ git add *
 
   After these commands, files are tracked and staged for committing.
 </details>
@@ -34,7 +34,7 @@ Use command *git log* to view commited snapshots.
 <details>
   <summary> What is the command to send your changed files to Github? </summary>
 
-Sending a single file: $ git commit -m “made change x,y,z”
-Sending all changes: $ git commit -a
+- Sending a single file: $ git commit -m “made change x,y,z”
+- Sending all changes: $ git commit -a
   
 </details>
