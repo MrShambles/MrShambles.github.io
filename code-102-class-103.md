@@ -19,7 +19,7 @@
   Single file track: git add *filename*
   All Files: $ git add *
 
-  After these commands, filesa re tracked and staged for committing.
+  After these commands, files are tracked and staged for committing.
 </details>
 
 <details>
