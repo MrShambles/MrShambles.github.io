@@ -7,9 +7,9 @@
 
 <summary> Code 102 </summary>
 
-- Class One [Learning Markdown](./learning-markdown.md)
-- Class Two [Coders Computer](./coders-computer.md)
-- Class Three [Git and GitHub](./gitandgithub.md)
+- Class One [Learning Markdown](./Code%20102/learning-markdown.md)
+- Class Two [Coders Computer](./Code%20102/coders-computer.md)
+- Class Three [Git and GitHub](./Code%20102/gitandgithub.md)
 - Class Four [Structure web pages with HTML](./Code%20102/class-4-structure-%20web-page-html.md)
 - Class Five
 - Class Six
