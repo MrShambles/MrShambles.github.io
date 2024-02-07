@@ -12,7 +12,7 @@
 - Class Three [Git and GitHub](./Code%20102/gitandgithub.md)
 - Class Four [Structure web pages with HTML](./Code%20102/class-4-structure-%20web-page-html.md)
 - Class Five [Design Web pages with CSS](./Code%20102/class5-css.md)
-- Class Six
+- Class Six [Dynamic web pages with JavaScript](./Code%20102/class6-Javascript.md)
 - Class Seven
 - Class Eight
 
