@@ -11,7 +11,7 @@
 - Class Two [Coders Computer](./Code%20102/coders-computer.md)
 - Class Three [Git and GitHub](./Code%20102/gitandgithub.md)
 - Class Four [Structure web pages with HTML](./Code%20102/class-4-structure-%20web-page-html.md)
-- Class Five
+- Class Five [Design Web pages with CSS](./Code%20102/class5-css.md)
 - Class Six
 - Class Seven
 - Class Eight
