@@ -14,7 +14,7 @@
 - Class Five [Design Web pages with CSS](./Code%20102/class5-css.md)
 - Class Six [Dynamic web pages with JavaScript](./Code%20102/class6-Javascript.md)
 - Class Seven [Programming with JavaScript](./Code%20102/class7-programwjava.md)
-- Class Eight
+- Class Eight [Operators and Loops](./Code%20102/class8-operator-loops.md)
 
 </details>
 
