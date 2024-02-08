@@ -13,7 +13,7 @@
 - Class Four [Structure web pages with HTML](./Code%20102/class-4-structure-%20web-page-html.md)
 - Class Five [Design Web pages with CSS](./Code%20102/class5-css.md)
 - Class Six [Dynamic web pages with JavaScript](./Code%20102/class6-Javascript.md)
-- Class Seven
+- Class Seven [Programming with JavaScript](./Code%20102/class7-programwjava.md)
 - Class Eight
 
 </details>
@@ -64,3 +64,4 @@ My name is Michael Roark, I am a 29 year old veteran, and this is where the stor
 
 > Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.
 > Dale Carnegie
+
