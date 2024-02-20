@@ -23,7 +23,7 @@
 <summary> Code 201 </summary>
 
 - Class One [Intro to 201](./Code%20201/Class-01.md)
-- Class Two
+- Class Two [Basics of HTML, CSS & JS](./Code%20201/class-02.md)
 - Class Three
 - Class Four
 - Class Five
