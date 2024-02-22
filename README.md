@@ -25,7 +25,7 @@
 - Class One [Intro to 201](./Code%20201/Class-01.md)
 - Class Two [Basics of HTML, CSS & JS](./Code%20201/class-02.md)
 - Class Three [HTML Lists, Control Flow with JS, and the CSS Box Model](./Code%20201/class-03.md)
-- Class Four
+- Class Four [HTML Links, JS Functions, and Intro to CSS Layout](./Code%20201/class-04.md)
 - Class Five
 - Class Six
 - Class Seven
