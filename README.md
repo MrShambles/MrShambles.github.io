@@ -27,7 +27,7 @@
 - Class Three [HTML Lists, Control Flow with JS, and the CSS Box Model](./Code%20201/class-03.md)
 - Class Four [HTML Links, JS Functions, and Intro to CSS Layout](./Code%20201/class-04.md)
 - Class Five [Images, Color, Text](./Code%20201/class-05.md)
-- Class Six
+- Class Six [Problem Domain, Objects, and the DOM](./Code%20201/class-06.md)
 - Class Seven
 - Class Eight
 - Class Nine
